@@ -38,6 +38,8 @@ website:
             text: LLMs
           - href: RAG in Research.qmd
             text: RAG in Research
+          - href: Knowledge Graphs.qmd
+            text: Knowledge Graphs
       - text: Assignments
         menu:
           - href: Assignment 1.pdf
@@ -46,7 +48,7 @@ website:
             text: Assignment 2
           - href: Assignment 3.qmd
             text: Assignment 3
-          - href: Assignment 4.qmd
+          - href: Assignment 4.pdf
             text: Assignment 4
 format:
   html:
