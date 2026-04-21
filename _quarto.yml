@@ -40,6 +40,8 @@ website:
             text: RAG in Research
           - href: Knowledge Graphs.qmd
             text: Knowledge Graphs
+          - href: Agentic AI Systems.qmd
+            text: Agentic AI Systems
       - text: Assignments
         menu:
           - href: Assignment 1.pdf
