@@ -10,5 +10,3 @@ Building on this, agentic AI systems are creating a system of never-ending tasks
 Agentic AI systems use reasoning and can store memory. It can even go back and change its answers or findings based on new databases it uses when answering future questions. This relates to its feedback loop, where it can run multiple trials to produce the best output. The benefits of agentic AI systems are that they can decrease work time, expand the scope of your study, and work more as an assistant than a chatbot. The limitations include the possibility of errors in the work chain, the need for validation, and the system complexity.
 
 Overall, agentic AI systems are made to do more than assist with tasks, but their complexity and need for verification make it difficult for many people to get comfortable and start using agentic AI systems in their research.
-
- 
